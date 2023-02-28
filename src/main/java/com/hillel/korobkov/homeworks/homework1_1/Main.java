@@ -1,4 +1,4 @@
-package com.hillel.korobkov.homeworks.homework11;
+package com.hillel.korobkov.homeworks.homework1_1;
 
 import java.util.Arrays;
 public class Main {
